@@ -1,5 +1,5 @@
-# hooks-utils
-一些有意思和有用的hooks
+# react-hooks-utils
+一些有意思和有用的react hooks
 
 - [**传感器**]会侦听某些界面中的更改，并强制使用新的状态，最新状态重新呈现组件
   - [`useHover`](./docs/useHover.md) &mdash; 跟踪鼠标悬停某个元素的状态。 
